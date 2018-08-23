@@ -1,0 +1,7 @@
+.a-53-1 {
+  margin: 10px 0px;
+  height: 7px;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.2);
+  background-image: repeating-linear-gradient(to right, #f75353, #f75353 40px, #51d466 0, #51d466 80px, #609cec 0, #609cec 120px, #fcd419 0, #fcd419 160px, #cb79e6 0, #cb79e6 200px, #32c8de 0, #32c8de 240px, #f78153 0, #f78153 280px, #ff61e7 0, #ff61e7 320px);
+}
